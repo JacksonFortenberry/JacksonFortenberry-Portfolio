@@ -4,18 +4,18 @@ Welcome to my programming portfolio. This repository documents my development as
 
 ## About Me
 
-I am a computer science student developing my programming skills through coursework and hands-on practice. I am learning to solve problems, write efficient code, and apply computer science concepts to practical projects.
+I am a computer science student at Athens State University developing my programming skills through coursework and hands-on practice. I am learning to solve problems, write efficient code, and apply computer science concepts to practical projects.
 
 ## Featured Project
 
 ### CardsByCyn
 
-CardsByCyn is a website/business project that demonstrates my experience with planning, development, design, and implementation.
+CardsByCyn is a website redesign project for Cynthia, the owner of Cards by Cyn, completed as my Senior Project for Athens State University. The goal of the project is to create a modern, responsive website that reflects the layout and organization of her Etsy storefront while giving her business its own dedicated web presence.
 
-- **Project repository:** Add your GitHub repository link here
-- **Live website:** Add the website link here, if available
-- **Technologies:** Add the languages, frameworks, and tools used here
-- **My contributions:** Add a brief explanation of the work you personally completed
+- **Project repository:** Private repository (Athens State University senior project organization) — code samples available upon request
+- **Live website:** Not yet published; the site is currently in the development and prototyping stage
+- **Technologies:** JavaScript, HTML, CSS, Git, GitHub
+- **My contributions:** Working as one of two developers on the project team, I contributed to building the website's pages and features, including the homepage design, product and card displays, product categories and detail pages, seasonal banner area, Etsy purchase links, About Me section, blog section, and the responsive layout
 
 See [projects/cardsbycyn.md](projects/cardsbycyn.md) for detailed documentation.
 
@@ -29,6 +29,9 @@ Some projects are introductory because they were completed while learning founda
 
 ## Technologies and Tools
 
+- JavaScript
+- HTML
+- CSS
 - C++
 - Assembly Language
 - Git
