@@ -1,10 +1,25 @@
-# JacksonFortenberry-Portfolio
+# Jackson Fortenberry – Programming Portfolio
 
-Welcome to my programming portfolio! This repository showcases my programming projects, coursework, and continued development in computer science.
+Welcome to my programming portfolio. This repository documents my development as a computer science student and includes selected projects, coursework, and technical experience.
 
 ## About Me
 
 I am a computer science student developing my programming skills through coursework and hands-on practice. I am learning to solve problems, write efficient code, and apply computer science concepts to practical projects.
+
+## Featured Project
+
+### CardsByCyn
+
+CardsByCyn is a website/business project that demonstrates my experience with planning, development, design, and implementation.
+
+- **Project repository:** Add your GitHub repository link here
+- **Live website:** Add the website link here, if available
+- **Technologies:** Add the languages, frameworks, and tools used here
+- **My contributions:** Add a brief explanation of the work you personally completed
+
+See [projects/cardsbycyn.md](projects/cardsbycyn.md) for detailed documentation.
+
+I am continuing to expand this project while developing my programming and software-development skills.
 
 ## Projects
 
